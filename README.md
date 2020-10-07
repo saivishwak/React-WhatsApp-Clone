@@ -25,7 +25,7 @@ Whatsapp Clone Application with real-time database using Firebase and React Js. 
     
     node start
 
-(Add your Firebase Config before starting the Application)
+(Add your Firebase Config in /src/firebase.js before starting the Application)
     
 ## [MIT License](https://raw.githubusercontent.com/saivishwak/React-WhatsApp-Clone/master/LICENSE)
 <img src ="https://img.shields.io/badge/Important-notice-red" />
