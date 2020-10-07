@@ -19,7 +19,7 @@ Whatsapp Clone Application with real-time database using Firebase and React Js. 
     
     git clone https://github.com/saivishwak/React-WhatsApp-Clone
     
-    cd EnterPrise-ERP
+    cd React-WhatsApp-Clone
     
     node install
     
