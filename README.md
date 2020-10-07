@@ -29,4 +29,4 @@ Whatsapp Clone Application with real-time database using Firebase and React Js. 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>You can use it absolutely anywhere!</h4>
 
-Feel free to make a pull request if you feel that you have improve this tool
+Feel free to make a pull request!
