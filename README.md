@@ -21,9 +21,9 @@ Whatsapp Clone Application with real-time database using Firebase and React Js. 
     
     cd React-WhatsApp-Clone
     
-    node install
+    npm install
     
-    node start
+    npm start
 
 (Add your Firebase Config in /src/firebase.js before starting the Application)
     
