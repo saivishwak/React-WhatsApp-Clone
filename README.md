@@ -15,6 +15,9 @@ React WhatsApp clone with Realtime messaging using Firebase
 # Introduction
 Whatsapp Clone Application with real-time database using Firebase and React Js. The code also contains MERN Stack implementation (Express.js, Pusher, MongoDB) for sending messages.
 
+![Image](./images/app.png)
+
+
 # Installation
     
     git clone https://github.com/saivishwak/React-WhatsApp-Clone
